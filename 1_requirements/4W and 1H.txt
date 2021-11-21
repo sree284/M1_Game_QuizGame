@@ -1,0 +1,6 @@
+
+WHY:Multiple choice quiz are short and sharp which means that more of them can be posed in a test situation to give a student a more thorough examination of how much they understand about a given subject.
+WHERE:Github,VSC.
+WHAT:Making a  game for entertainment.
+WHEN:it requires respondents to select only correct answers from the choice options. MCQs are mostly used in educational testing, customer reviews, market research, elections, etc. Although they take different forms depending on their purpose, they have the same structure.
+HOW:Multiple choice questions are a useful tool for checking students’ understanding as a starter or plenary activity, or within a longer assessment. All multiple choice questions include distractor (incorrect) answers.

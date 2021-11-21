@@ -1,0 +1,7 @@
+A quiz is a form of game or mind sport in which players attempt to answer questions correctly about a certain or variety of subjects.
+Quizzes can be used as a brief assessment in education and similar fields to measure growth in knowledge, abilities, or skills.
+Multiple Choice Quiz is a form of an objective assessment in which respondents are asked to select only correct answers from the choices offered as a list. 
+The multiple choice format is most frequently used in educational testing, in market research, and in elections, when a person chooses between multiple candidates, parties, or policies.
+Multiple choice items consist of a stem and several alternative answers. The stem is the opening—a problem to be solved, a question asked, or an incomplete statement to be completed. 
+The options are the possible answers that the examinee can choose from, with the correct answer called the key and the incorrect answers called distractors.
+Only one answer may be keyed as correct.This contrasts with multiple response items in which more than one answer may be keyed as correct.
