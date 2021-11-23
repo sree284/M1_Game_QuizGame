@@ -33,6 +33,7 @@ Making a game for entertainment.
 1H:
 
 HOW
+
 This project is implemented by using loops, function call and other functionalities of C.
 
 TOOLS:
